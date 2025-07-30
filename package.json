@@ -1,0 +1,16 @@
+{
+  "name": "simplecamapplication",
+    "productName": "simplecamapplication",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "HimikoTM",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^37.2.4"
+  }
+}
